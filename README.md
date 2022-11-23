@@ -1,4 +1,4 @@
-
+<!--
 👋  Hi there ! <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a front developer :)
 
@@ -8,7 +8,7 @@
 ### Platforms & Languages
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
+-->
 <!--
 **suminqqq/suminqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
