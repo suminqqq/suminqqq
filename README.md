@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=3000&pause=200&color=FFFFFF&width=435&lines=This+is+sooomin+kim+!)](https://git.io/typing-svg)
 
 👋  Hi there ! <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a front developer :)
