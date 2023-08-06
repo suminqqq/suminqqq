@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-삼성 대학생 알고리즘 특강 2023 상반기(백준)
